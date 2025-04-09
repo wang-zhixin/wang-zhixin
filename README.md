@@ -3,7 +3,6 @@
 <strong>Hi, I am wang-zhixin!👋 </strong>
 
 <strong>A front-end developer from China🇨🇳. </strong>
-
 </pre> 
 
 ### ⭐️ &nbsp;Github Star
